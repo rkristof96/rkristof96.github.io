@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+BSc in Economic and Financial Analysis, Financial Mathematics Specialisation, Corvinus University of Budapest <mark>2015-2018<mark>
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
