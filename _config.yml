@@ -85,7 +85,6 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  # linkedin          : "https://www.linkedin.com/in/krist%C3%B3f-reizinger-58195013b/"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "Reizinger_Kristof@student.ceu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
