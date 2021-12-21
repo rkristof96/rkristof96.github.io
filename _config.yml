@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://rkristof96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rkristof96/rkristof96.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "RK_újabb.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -83,7 +83,7 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Vienna, Austria"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "Reizinger_Kristof@student.ceu.edu"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/krist%C3%B3f-reizinger-58195013b/"
+  linkedin         : "krist%C3%B3f-reizinger-58195013b/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
