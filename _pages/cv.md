@@ -12,17 +12,17 @@ redirect_from:
 
 Education
 ======
-<b>MA in Economics, Central European University<b>
-<b>2021-2023 (expected)<b>
+<b>MA in Economics, Central European University</b>
+<b>2021-2023 (expected)</b>
 
 MSc in Financial and Actuarial Mathematics, Actuarial Mathematics Specialisation, Eötvös Lóránd University - Corvinus University of Budapest
-<b>2018-2020<b>
-<b>Thesis:<b> Big data analysis in financial networks: An econometric approach for the detection of SIFIs and the measurement of systemic risk
-<b>Supervisor:<b> Milán Csaba Badics, Phd
+<b>2018-2020</b>
+<b>Thesis:</b> Big data analysis in financial networks: An econometric approach for the detection of SIFIs and the measurement of systemic risk
+<b>Supervisor:</b> Milán Csaba Badics, Phd
 
-BSc in Economic and Financial Analysis, Financial Mathematics Specialisation, Corvinus University of Budapest <b>2015-2018<b>
-<b>Thesis:<b> Banks as financial intermediaries and/or money creators
-<b>Supervisor:<b> János Vincze, DSc
+BSc in Economic and Financial Analysis, Financial Mathematics Specialisation, Corvinus University of Budapest <b>2015-2018</b>
+<b>Thesis:</b> Banks as financial intermediaries and/or money creators
+<b>Supervisor:</b> János Vincze, DSc
 
 
 
