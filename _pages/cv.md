@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-<h2><b>MA in Economics, Central European University<b><h2>
+<b>MA in Economics, Central European University<b>
 <b>2021-2023 (expected)<b>
 
 MSc in Financial and Actuarial Mathematics, Actuarial Mathematics Specialisation, Eötvös Lóránd University - Corvinus University of Budapest
