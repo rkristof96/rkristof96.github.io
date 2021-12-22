@@ -5,19 +5,14 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-  p.ex1 {
-  font-size: 30px;
-}
-p.ex2 {
-  font-size: 50px;
-}
+
 ---
 
 {% include base_path %}
 
 Education
 ======
-<p class="ex1"><b>MA in Economics, Central European University<b></p>
+<h2><b>MA in Economics, Central European University<b><h2>
 <b>2021-2023 (expected)<b>
 
 MSc in Financial and Actuarial Mathematics, Actuarial Mathematics Specialisation, Eötvös Lóránd University - Corvinus University of Budapest
