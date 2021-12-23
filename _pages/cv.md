@@ -64,12 +64,20 @@ Skills
 * Tableau
 * MySQL
 
+Research interest
+======
+* Econometrics
+* Financial networks
+* Endogenous money theory
+* Machnile Learning
 
+<!-->
 # * Skill 2
 #  * Sub-skill 2.1
 #  * Sub-skill 2.2
 #  * Sub-skill 2.3
 #* Skill 3
+-->
 
 Publications
 ======
@@ -93,4 +101,4 @@ Teaching
 * Mathias Corcinus Collegium Leadership Academy
 
 # ======
-# * Currently signed in to 43 different slack teams
+<!--> * Currently signed in to 43 different slack teams-->
