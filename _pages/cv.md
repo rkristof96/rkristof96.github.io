@@ -32,15 +32,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <h2>Teaching Assistant in Statistics</h2>
+  * <b>Corvinus University of Budapest</b>
+  * <b>Courses:</b> Statistics I., Statistics II.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <h2>Data Science Trainee</h2>
+  * <b>Company:</b> Data Science Trainee
+  * <b>Duties included:</b> statistical modelling (R, Python), database managment (SQL)
   
 Skills
 ======
