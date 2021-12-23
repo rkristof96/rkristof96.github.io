@@ -32,22 +32,44 @@ Education
 
 Work experience
 ======
+* <h2>Junior Actuary</h2>
+  * <b>Company:</b> Pwc Austria Ltd.
+  * <b>Period:</b> 2021 October - ongoing
+  * <b>Company:</b> Pwc Hungary Auditing Ltd.
+  * <b>Period:</b> 2020 October - 2021 September
+  * <b>Duties included:</b> Solvency 2, IFRS 17, reserve reviews, audit tasks
+
 * <h2>Teaching Assistant in Statistics</h2>
   * <b>Corvinus University of Budapest</b>
+  * <b>Period:</b> 2017 February - 2019 July
   * <b>Courses:</b> Statistics I., Statistics II.  
 
 * <h2>Data Science Trainee</h2>
   * <b>Company:</b> Data Science Trainee
+  * <b>Period:</b> 2018 Summer
   * <b>Duties included:</b> statistical modelling (R, Python), database managment (SQL)
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<h2>Programming</h2>
+* R
+* Matlab
+* VBA
+* Python
+* Stata
+* SPSS
+
+<h2>Visualization and Data Management</h2>
+* PowerBI
+* Tableau
+* MySQL
+
+
+# * Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
@@ -67,6 +89,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<h2>Service and leadership</h2>
+* Mathias Corcinus Collegium Leadership Academy
+
+# ======
+# * Currently signed in to 43 different slack teams
