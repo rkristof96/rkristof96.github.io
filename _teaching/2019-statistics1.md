@@ -1,5 +1,5 @@
 ---
-title: "Statistics I."
+title: "Statistics I. - 2019"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-statistics1
