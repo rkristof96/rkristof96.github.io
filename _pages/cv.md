@@ -14,14 +14,14 @@ Education
 ======
 <h2>PhD in Finance, Vienna Graduate School of Finance</h2>
 
-<b>2023-ongoing</b>
+<b><i>2023-ongoing</i></b><br>
 <ul>
 
 </ul>
 
 <h2>MA in Economics, Central European University</h2>
 
-<b>2021-2023</b>
+<b><i>2021-2023</i></b><br>
 <ul>
 <li><b>Thesis:</b> Systemic risk premium in the financial industry</li>
 <li><b>Supervisor:</b> Tomy Lee, PhD</li>

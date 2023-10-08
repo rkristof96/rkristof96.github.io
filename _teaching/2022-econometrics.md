@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Econometrics"
+title: "Introduction to Econometrics - 2022"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-econometrics
